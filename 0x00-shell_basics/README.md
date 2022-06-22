@@ -1,1 +1,1 @@
-‘The directory path is’
+‘The absolute path is’
